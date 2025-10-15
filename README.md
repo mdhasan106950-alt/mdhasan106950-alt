@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **merlintechlimited**
 
-- 🌱 I’m currently learning **c,C++,java**
+- 🌱 I’m currently learning **C,C++,java**
 
 - 👯 I’m looking to collaborate on **aurafashinbd.com**
 
